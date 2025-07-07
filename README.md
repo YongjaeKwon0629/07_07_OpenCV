@@ -24,7 +24,7 @@ OpenCV(Open Source Computer Vision Library)는 실시간 컴퓨터 비전 및 �
 - 필터링 및 마스크
 - 객체 탐지 (윤곽선, 얼굴 등)
 
-### [4_OpenCV 자주 나오는 용어 정리](./4OpenCV 자주 나오는 용어 정리.md])
+### [4_OpenCV 자주 나오는 용어 정리](./4.OpenCV 자주 나오는 용어 정리.md])
 - 이미지와 배열, 채널의 관계
 - BGR vs RGB
 - 커널(kernel), 컨볼루션(convolution)
