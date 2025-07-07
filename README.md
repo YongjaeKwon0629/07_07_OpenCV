@@ -50,6 +50,10 @@ OpenCV(Open Source Computer Vision Library)는 실시간 컴퓨터 비전 및 �
 - 모멘트(moment), 면적, 중심점 구하기
 - 얼굴 검출: Haar Cascade / DNN
 
+### [9. 텍스트 및 도형 그리기](9_텍스트도형.md)
+- `cv2.putText()`로 이미지에 텍스트 삽입
+- 원, 선, 사각형 그리기 함수
+- 실시간 시각화 및 UI 구성
 ---
 
 > 📌 각 항목은 이후 세부 `.md` 문서로 분리되어 자세히 설명될 예정입니다.
