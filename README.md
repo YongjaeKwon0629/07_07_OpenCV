@@ -18,7 +18,7 @@ OpenCV(Open Source Computer Vision Library)는 실시간 컴퓨터 비전 및 �
 - 필수 라이브러리 목록 (numpy 등)
 - 설치 시 자주 발생하는 오류 및 해결법
 
-### [3. OpenCV 주요 기능 요약](./.md)
+### [3. OpenCV 주요 기능 요약](./3. OpenCV 주요 기능 요약.md)
 - 이미지 처리 (읽기, 저장, 출력)
 - 비디오 스트리밍 처리
 - 필터링 및 마스크
