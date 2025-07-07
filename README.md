@@ -13,7 +13,7 @@ OpenCV(Open Source Computer Vision Library)는 실시간 컴퓨터 비전 및 �
 - 주요 활용 분야
 - 지원 언어 및 플랫폼
 
-### 2. OpenCV 설치 및 필요한 라이브러리
+### [2. OpenCV 설치 및 필요한 라이브러리](./2_설치및라이브러리.md)
 - pip를 이용한 설치 방법
 - 필수 라이브러리 목록 (numpy 등)
 - 설치 시 자주 발생하는 오류 및 해결법
