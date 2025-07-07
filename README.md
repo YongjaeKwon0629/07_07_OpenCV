@@ -40,7 +40,7 @@ OpenCV(Open Source Computer Vision Library)는 실시간 컴퓨터 비전 및 �
 - Grayscale 처리
 - HSV, LAB 등의 색 공간 활용
 
-### [. 이미지 필터링 및 변환 기초](./)
+### [7. 윤곽선 추출과 도형 검출](7_윤곽선.md)
 - 블러 처리 (Gaussian, Median)
 - 경계 검출 (Sobel, Canny)
 - 도형 검출 (Hough Transform 등)
