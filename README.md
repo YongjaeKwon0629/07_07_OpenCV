@@ -45,7 +45,7 @@ OpenCV(Open Source Computer Vision Library)는 실시간 컴퓨터 비전 및 �
 - 경계 검출 (Sobel, Canny)
 - 도형 검출 (Hough Transform 등)
 
-### [8. 객체 탐지와 윤곽선 처리](./)
+### [8. 색상 공간과 마스킹 처리](8_색상공간.md)
 - `cv2.findContours()`와 `drawContours()`
 - 모멘트(moment), 면적, 중심점 구하기
 - 얼굴 검출: Haar Cascade / DNN
