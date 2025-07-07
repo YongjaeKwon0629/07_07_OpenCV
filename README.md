@@ -8,7 +8,7 @@ OpenCV(Open Source Computer Vision Library)는 실시간 컴퓨터 비전 및 �
 
 ## 📚 목차
 
-### 1. OpenCV란?
+### [1. OpenCV란?](./1_OpenCV란.md)
 - OpenCV 정의
 - 주요 활용 분야
 - 지원 언어 및 플랫폼
