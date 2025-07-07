@@ -30,7 +30,7 @@ OpenCV(Open Source Computer Vision Library)는 실시간 컴퓨터 비전 및 �
 - 커널(kernel), 컨볼루션(convolution)
 - ROI, threshold, histogram 등
 
-### [5. 이미지 및 비디오 기본 처리](./)
+### [5. 이미지 및 비디오 기본 처리](./5_기본처리.md)
 - `cv2.imread()` / `cv2.imshow()` / `cv2.imwrite()`
 - 웹캠 스트리밍: `cv2.VideoCapture()`
 - 키보드 이벤트 처리
